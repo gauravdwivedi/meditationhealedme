@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "865546173301",
+    "firebase_url": "https://androidapps-1989.firebaseio.com",
+    "project_id": "androidapps-1989",
+    "storage_bucket": "androidapps-1989.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865546173301:android:d48b688edbf48f11",
+        "android_client_info": {
+          "package_name": "com.focustowardsfuture.gaurav.meditationheadledme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865546173301-i0h43h1rm6f7utrh13sbute1g6pbvnr5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.focustowardsfuture.gaurav.meditationheadledme",
+            "certificate_hash": "05b38790c8d6c96d9994beb0fb0dedb297b1513b"
+          }
+        },
+        {
+          "client_id": "865546173301-br980332rhlp56hm27cti31elrgl5c02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlLYZ9cR75knQft0KyHY6Q5jZDF-Qq_Us"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865546173301-br980332rhlp56hm27cti31elrgl5c02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865546173301:android:4e1572b43d3b102d",
+        "android_client_info": {
+          "package_name": "com.focustowardsfuture.gaurav.randomchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865546173301-2kta7032k6acie2ndvqvu3v65ajlvil7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.focustowardsfuture.gaurav.randomchat",
+            "certificate_hash": "05b38790c8d6c96d9994beb0fb0dedb297b1513b"
+          }
+        },
+        {
+          "client_id": "865546173301-br980332rhlp56hm27cti31elrgl5c02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlLYZ9cR75knQft0KyHY6Q5jZDF-Qq_Us"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865546173301-br980332rhlp56hm27cti31elrgl5c02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

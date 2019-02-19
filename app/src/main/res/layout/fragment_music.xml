@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/wallnight"
+    tools:context=".guided">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <Button
+            android:id="@+id/btnplay2"
+            android:text="play"
+            android:textSize="24sp"
+            android:layout_centerInParent="true"
+            android:layout_centerHorizontal="true"
+            android:textColor="#fff"
+            android:textStyle="bold"
+            android:background="@drawable/transparentbtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            />
+        <TextView
+
+            android:id="@+id/txtfragment2"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@id/btnplay2"
+            android:textSize="84sp"
+            android:layout_marginTop="10dp"
+            android:textColor="#fff"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            />
+
+        <Button
+            android:layout_centerInParent="true"
+            android:id="@+id/btnstop2"
+            android:textSize="24sp"
+            android:layout_margin="8dp"
+            android:textStyle="bold"
+            android:visibility="gone"
+            android:layout_centerHorizontal="true"
+            android:textColor="#fff"
+            android:background="@drawable/transparentbtn"
+            android:text="stop"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            />
+
+    </RelativeLayout>
+
+</FrameLayout>
